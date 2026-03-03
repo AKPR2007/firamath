@@ -9,14 +9,6 @@ name = bottom;
 pos = (140,0);
 },
 {
-name = math.ic;
-pos = (407,0);
-},
-{
-name = math.ta;
-pos = (214,0);
-},
-{
 name = ogonek;
 pos = (208,0);
 },
@@ -37,6 +29,12 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+italicCorrection = 40;
+topAccent = 214;
+};
+};
 width = 367;
 },
 {
@@ -44,14 +42,6 @@ anchors = (
 {
 name = bottom;
 pos = (108,0);
-},
-{
-name = math.ic;
-pos = (328,0);
-},
-{
-name = math.ta;
-pos = (180,0);
 },
 {
 name = ogonek;
@@ -74,6 +64,12 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+italicCorrection = 40;
+topAccent = 180;
+};
+};
 width = 288;
 },
 {
@@ -81,14 +77,6 @@ anchors = (
 {
 name = bottom;
 pos = (109,0);
-},
-{
-name = math.ic;
-pos = (332,0);
-},
-{
-name = math.ta;
-pos = (183,0);
 },
 {
 name = ogonek;
@@ -111,6 +99,12 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+italicCorrection = 40;
+topAccent = 183;
+};
+};
 width = 292;
 },
 {
@@ -118,14 +112,6 @@ anchors = (
 {
 name = bottom;
 pos = (113,0);
-},
-{
-name = math.ic;
-pos = (341,0);
-},
-{
-name = math.ta;
-pos = (187,0);
 },
 {
 name = ogonek;
@@ -148,6 +134,12 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+italicCorrection = 40;
+topAccent = 187;
+};
+};
 width = 301;
 }
 );

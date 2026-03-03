@@ -7,10 +7,6 @@ anchors = (
 {
 name = _bottom;
 pos = (122,0);
-},
-{
-name = math.ta;
-pos = (122,0);
 }
 );
 layerId = "B26C53A4-97D1-457B-8232-65310EC64496";
@@ -36,16 +32,17 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+topAccent = 122;
+};
+};
 width = 244;
 },
 {
 anchors = (
 {
 name = _bottom;
-pos = (52,0);
-},
-{
-name = math.ta;
 pos = (52,0);
 }
 );
@@ -72,16 +69,17 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+topAccent = 52;
+};
+};
 width = 87;
 },
 {
 anchors = (
 {
 name = _bottom;
-pos = (77,0);
-},
-{
-name = math.ta;
 pos = (77,0);
 }
 );
@@ -108,16 +106,17 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+topAccent = 77;
+};
+};
 width = 139;
 },
 {
 anchors = (
 {
 name = _bottom;
-pos = (90,0);
-},
-{
-name = math.ta;
 pos = (90,0);
 }
 );
@@ -144,6 +143,11 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+topAccent = 90;
+};
+};
 width = 180;
 }
 );
