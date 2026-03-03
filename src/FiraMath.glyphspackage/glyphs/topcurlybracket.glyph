@@ -8,42 +8,6 @@ shapes = (
 ref = _smart.topcurlybracket;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-topcurlybracket.left,
-0,
-0,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.mid,
-0,
-60,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 606;
 },
 {
@@ -53,42 +17,6 @@ shapes = (
 ref = _smart.topcurlybracket;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-topcurlybracket.left,
-0,
-0,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.mid,
-0,
-60,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 650;
 },
 {
@@ -98,42 +26,6 @@ shapes = (
 ref = _smart.topcurlybracket;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-topcurlybracket.left,
-0,
-0,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.mid,
-0,
-60,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 744;
 },
 {
@@ -143,42 +35,6 @@ shapes = (
 ref = _smart.topcurlybracket;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-topcurlybracket.left,
-0,
-0,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.mid,
-0,
-60,
-60
-),
-(
-topcurlybracket.ext,
-1,
-60,
-60
-),
-(
-topcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 832;
 }
 );

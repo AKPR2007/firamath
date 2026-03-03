@@ -11,6 +11,12 @@ ref = braceleft.ext;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 834;
 },
 {
@@ -23,6 +29,12 @@ ref = braceleft.ext;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 868;
 },
 {
@@ -35,6 +47,12 @@ ref = braceleft.ext;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 960;
 },
 {
@@ -47,10 +65,13 @@ ref = braceleft.ext;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 1102;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

@@ -50,7 +50,4 @@ scale = (-1,1);
 width = 744;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

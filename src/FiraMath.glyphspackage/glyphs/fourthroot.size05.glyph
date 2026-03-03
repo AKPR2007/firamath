@@ -54,7 +54,4 @@ ref = _smart.fourthroot;
 width = 871;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

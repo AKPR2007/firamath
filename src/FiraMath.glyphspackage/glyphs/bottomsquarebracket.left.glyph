@@ -11,6 +11,12 @@ ref = topsquarebracket.left;
 scale = (1,-1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 3320;
 },
 {
@@ -23,6 +29,12 @@ ref = topsquarebracket.left;
 scale = (1,-1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 3320;
 },
 {
@@ -35,6 +47,12 @@ ref = topsquarebracket.left;
 scale = (1,-1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 3320;
 },
 {
@@ -47,6 +65,12 @@ ref = topsquarebracket.left;
 scale = (1,-1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 3320;
 }
 );

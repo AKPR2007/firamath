@@ -50,7 +50,4 @@ ref = _smart.braceleft;
 width = 552;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

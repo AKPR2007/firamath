@@ -8,24 +8,6 @@ shapes = (
 ref = _smart.dblverticalbar;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-dblverticalbar.ext,
-0,
-60,
-60
-),
-(
-dblverticalbar.ext,
-1,
-60,
-60
-)
-);
-};
-};
 width = 584;
 },
 {
@@ -35,24 +17,6 @@ shapes = (
 ref = _smart.dblverticalbar;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-dblverticalbar.ext,
-0,
-60,
-60
-),
-(
-dblverticalbar.ext,
-1,
-60,
-60
-)
-);
-};
-};
 width = 504;
 },
 {
@@ -62,24 +26,6 @@ shapes = (
 ref = _smart.dblverticalbar;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-dblverticalbar.ext,
-0,
-60,
-60
-),
-(
-dblverticalbar.ext,
-1,
-60,
-60
-)
-);
-};
-};
 width = 532;
 },
 {
@@ -89,24 +35,6 @@ shapes = (
 ref = _smart.dblverticalbar;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-dblverticalbar.ext,
-0,
-60,
-60
-),
-(
-dblverticalbar.ext,
-1,
-60,
-60
-)
-);
-};
-};
 width = 664;
 }
 );
@@ -114,7 +42,6 @@ metricLeft = bar;
 metricRight = bar;
 unicode = 8214;
 userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
 com.nagwa.MATHPlugin.variants = {
 vVariants = (
 dblverticalbar,

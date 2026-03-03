@@ -50,7 +50,4 @@ ref = "_smart.leftwhitesquarebracket-math";
 width = 707;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

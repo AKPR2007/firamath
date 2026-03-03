@@ -11,42 +11,6 @@ ref = topcurlybracket;
 scale = (1,-1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-bottomcurlybracket.left,
-0,
-0,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.mid,
-0,
-60,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 606;
 },
 {
@@ -59,42 +23,6 @@ ref = topcurlybracket;
 scale = (1,-1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-bottomcurlybracket.left,
-0,
-0,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.mid,
-0,
-60,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 650;
 },
 {
@@ -107,42 +35,6 @@ ref = topcurlybracket;
 scale = (1,-1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-bottomcurlybracket.left,
-0,
-0,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.mid,
-0,
-60,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 744;
 },
 {
@@ -155,42 +47,6 @@ ref = topcurlybracket;
 scale = (1,-1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-hAssembly = (
-(
-bottomcurlybracket.left,
-0,
-0,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.mid,
-0,
-60,
-60
-),
-(
-bottomcurlybracket.ext,
-1,
-60,
-60
-),
-(
-bottomcurlybracket.right,
-0,
-60,
-0
-)
-);
-};
-};
 width = 832;
 }
 );

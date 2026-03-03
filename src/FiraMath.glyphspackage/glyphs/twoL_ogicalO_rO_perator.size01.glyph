@@ -48,7 +48,4 @@ width = 1950;
 );
 metricLeft = twoLogicalAndOperator.size01;
 metricRight = twoLogicalAndOperator.size01;
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

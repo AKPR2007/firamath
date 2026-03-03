@@ -11,30 +11,6 @@ ref = "leftwhitesquarebracket-math";
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"rightwhitesquarebracket-math.bot",
-0,
-0,
-60
-),
-(
-"rightwhitesquarebracket-math.ext",
-1,
-60,
-60
-),
-(
-"rightwhitesquarebracket-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 436;
 },
 {
@@ -47,30 +23,6 @@ ref = "leftwhitesquarebracket-math";
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"rightwhitesquarebracket-math.bot",
-0,
-0,
-60
-),
-(
-"rightwhitesquarebracket-math.ext",
-1,
-60,
-60
-),
-(
-"rightwhitesquarebracket-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 470;
 },
 {
@@ -83,30 +35,6 @@ ref = "leftwhitesquarebracket-math";
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"rightwhitesquarebracket-math.bot",
-0,
-0,
-60
-),
-(
-"rightwhitesquarebracket-math.ext",
-1,
-60,
-60
-),
-(
-"rightwhitesquarebracket-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 532;
 },
 {
@@ -119,36 +47,11 @@ ref = "leftwhitesquarebracket-math";
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"rightwhitesquarebracket-math.bot",
-0,
-0,
-60
-),
-(
-"rightwhitesquarebracket-math.ext",
-1,
-60,
-60
-),
-(
-"rightwhitesquarebracket-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 644;
 }
 );
 unicode = 10215;
 userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
 com.nagwa.MATHPlugin.variants = {
 vVariants = (
 "rightwhitesquarebracket-math",

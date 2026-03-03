@@ -65,7 +65,6 @@ width = 132;
 );
 unicode = 8260;
 userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
 com.nagwa.MATHPlugin.variants = {
 vVariants = (
 fraction,

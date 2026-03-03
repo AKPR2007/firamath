@@ -50,7 +50,4 @@ ref = "_smart.leftflattenedparenthesis-math";
 width = 665;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

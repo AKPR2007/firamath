@@ -42,7 +42,4 @@ ref = slash.size01;
 width = 603;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

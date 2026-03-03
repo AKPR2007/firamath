@@ -11,6 +11,12 @@ ref = parenleftextension;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 858;
 },
 {
@@ -23,6 +29,12 @@ ref = parenleftextension;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 886;
 },
 {
@@ -35,6 +47,12 @@ ref = parenleftextension;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 904;
 },
 {
@@ -47,6 +65,12 @@ ref = parenleftextension;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 972;
 }
 );

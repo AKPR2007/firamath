@@ -120,7 +120,4 @@ width = 1382;
 );
 metricLeft = summation.size01;
 metricRight = summation.size01;
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

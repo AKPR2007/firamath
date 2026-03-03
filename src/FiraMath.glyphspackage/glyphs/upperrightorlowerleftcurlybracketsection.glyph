@@ -11,30 +11,6 @@ ref = upperleftorlowerrightcurlybracketsection;
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-upperrightorlowerleftcurlybracketsection.bot,
-0,
-0,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.ext,
-1,
-60,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.top,
-0,
-60,
-0
-)
-);
-};
-};
 width = 458;
 },
 {
@@ -47,30 +23,6 @@ ref = upperleftorlowerrightcurlybracketsection;
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-upperrightorlowerleftcurlybracketsection.bot,
-0,
-0,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.ext,
-1,
-60,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.top,
-0,
-60,
-0
-)
-);
-};
-};
 width = 462;
 },
 {
@@ -83,30 +35,6 @@ ref = upperleftorlowerrightcurlybracketsection;
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-upperrightorlowerleftcurlybracketsection.bot,
-0,
-0,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.ext,
-1,
-60,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.top,
-0,
-60,
-0
-)
-);
-};
-};
 width = 486;
 },
 {
@@ -119,36 +47,11 @@ ref = upperleftorlowerrightcurlybracketsection;
 scale = (-1,1);
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-upperrightorlowerleftcurlybracketsection.bot,
-0,
-0,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.ext,
-1,
-60,
-60
-),
-(
-upperrightorlowerleftcurlybracketsection.top,
-0,
-60,
-0
-)
-);
-};
-};
 width = 520;
 }
 );
 unicode = 9137;
 userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
 com.nagwa.MATHPlugin.variants = {
 vVariants = (
 upperrightorlowerleftcurlybracketsection,

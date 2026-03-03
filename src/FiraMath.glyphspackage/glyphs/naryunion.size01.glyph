@@ -48,7 +48,4 @@ width = 1382;
 );
 metricLeft = naryintersection.size01;
 metricRight = naryintersection.size01;
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

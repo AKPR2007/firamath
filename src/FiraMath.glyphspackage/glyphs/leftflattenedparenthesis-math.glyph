@@ -8,30 +8,6 @@ shapes = (
 ref = "_smart.leftflattenedparenthesis-math";
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"leftflattenedparenthesis-math.bot",
-0,
-0,
-60
-),
-(
-"leftflattenedparenthesis-math.ext",
-1,
-60,
-60
-),
-(
-"leftflattenedparenthesis-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 368;
 },
 {
@@ -41,30 +17,6 @@ shapes = (
 ref = "_smart.leftflattenedparenthesis-math";
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"leftflattenedparenthesis-math.bot",
-0,
-0,
-60
-),
-(
-"leftflattenedparenthesis-math.ext",
-1,
-60,
-60
-),
-(
-"leftflattenedparenthesis-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 396;
 },
 {
@@ -74,30 +26,6 @@ shapes = (
 ref = "_smart.leftflattenedparenthesis-math";
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"leftflattenedparenthesis-math.bot",
-0,
-0,
-60
-),
-(
-"leftflattenedparenthesis-math.ext",
-1,
-60,
-60
-),
-(
-"leftflattenedparenthesis-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 421;
 },
 {
@@ -107,36 +35,11 @@ shapes = (
 ref = "_smart.leftflattenedparenthesis-math";
 }
 );
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vAssembly = (
-(
-"leftflattenedparenthesis-math.bot",
-0,
-0,
-60
-),
-(
-"leftflattenedparenthesis-math.ext",
-1,
-60,
-60
-),
-(
-"leftflattenedparenthesis-math.top",
-0,
-60,
-0
-)
-);
-};
-};
 width = 472;
 }
 );
 unicode = 10222;
 userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
 com.nagwa.MATHPlugin.variants = {
 vVariants = (
 "leftflattenedparenthesis-math",

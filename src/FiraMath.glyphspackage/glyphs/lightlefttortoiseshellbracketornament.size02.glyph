@@ -50,7 +50,4 @@ ref = _smart.lightlefttortoiseshellbracketornament;
 width = 524;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

@@ -114,7 +114,6 @@ metricLeft = naryunion;
 metricRight = naryunion;
 unicode = 10756;
 userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
 com.nagwa.MATHPlugin.variants = {
 vVariants = (
 nAryUnionOperatorWithPlus,

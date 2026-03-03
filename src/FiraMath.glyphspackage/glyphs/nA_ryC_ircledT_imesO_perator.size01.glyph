@@ -112,7 +112,4 @@ width = 1780;
 );
 metricLeft = nAryCircledDotOperator.size01;
 metricRight = nAryCircledDotOperator.size01;
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

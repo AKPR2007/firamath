@@ -48,7 +48,4 @@ width = 1450;
 );
 metricLeft = largeDownTack.size01;
 metricRight = largeDownTack.size01;
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

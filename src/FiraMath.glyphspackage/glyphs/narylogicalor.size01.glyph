@@ -48,7 +48,4 @@ width = 1650;
 );
 metricLeft = narylogicaland.size01;
 metricRight = narylogicaland.size01;
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

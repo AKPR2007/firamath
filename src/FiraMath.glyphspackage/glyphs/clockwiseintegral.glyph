@@ -238,7 +238,6 @@ metricLeft = integral;
 metricWidth = integral;
 unicode = 8753;
 userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
 com.nagwa.MATHPlugin.variants = {
 vVariants = (
 clockwiseintegral,

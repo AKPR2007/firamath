@@ -106,7 +106,4 @@ ref = largeCircle.size01;
 width = 1780;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

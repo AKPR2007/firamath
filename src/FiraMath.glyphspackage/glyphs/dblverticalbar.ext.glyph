@@ -23,6 +23,12 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 564;
 },
 {
@@ -47,6 +53,12 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 604;
 },
 {
@@ -71,6 +83,12 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 684;
 },
 {
@@ -95,12 +113,15 @@ nodes = (
 );
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 60;
+};
+};
 width = 828;
 }
 );
 metricLeft = dblverticalbar.size15;
 metricRight = dblverticalbar.size15;
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }

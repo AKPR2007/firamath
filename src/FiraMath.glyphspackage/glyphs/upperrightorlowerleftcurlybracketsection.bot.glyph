@@ -11,6 +11,12 @@ ref = upperleftorlowerrightcurlybracketsection.bot;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 802;
 },
 {
@@ -23,6 +29,12 @@ ref = upperleftorlowerrightcurlybracketsection.bot;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 808;
 },
 {
@@ -35,6 +47,12 @@ ref = upperleftorlowerrightcurlybracketsection.bot;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 818;
 },
 {
@@ -47,10 +65,13 @@ ref = upperleftorlowerrightcurlybracketsection.bot;
 scale = (-1,1);
 }
 );
+userData = {
+math = {
+endConnector = 60;
+startConnector = 0;
+};
+};
 width = 884;
 }
 );
-userData = {
-com.nagwa.MATHPlugin.extendedShape = 1;
-};
 }
