@@ -77,12 +77,4 @@ width = 988;
 metricLeft = summation;
 metricRight = summation;
 unicode = 8896;
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vVariants = (
-narylogicaland,
-narylogicaland.size01
-);
-};
-};
 }

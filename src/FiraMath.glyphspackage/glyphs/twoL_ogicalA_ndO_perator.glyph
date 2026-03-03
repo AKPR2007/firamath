@@ -57,12 +57,4 @@ width = 1248;
 metricLeft = narylogicaland;
 metricRight = narylogicaland;
 unicode = 10759;
-userData = {
-com.nagwa.MATHPlugin.variants = {
-vVariants = (
-twoLogicalAndOperator,
-twoLogicalAndOperator.size01
-);
-};
-};
 }
